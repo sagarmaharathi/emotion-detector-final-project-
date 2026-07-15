@@ -1,0 +1,6 @@
+ * Serving Flask app 'Emotion Detector'
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+11.14.02 - - [15/Jul/2026 11:14:02] "GET / HTTP/1.1" 200 -
+11.14.15 - - [15/Jul/2026 11:14:15] "GET /emotionDetector?textToAnalyze=I%20am%20glad%20this%20happened HTTP/1.1" 200 -
