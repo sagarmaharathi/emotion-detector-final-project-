@@ -1,0 +1,1 @@
+pylint server.py > 8_static_code_analysis.txt 2>&1
