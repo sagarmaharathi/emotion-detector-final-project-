@@ -1,0 +1,3 @@
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("")
+{'anger': None, 'disgust': None, 'fear': None, 'joy': None, 'sadness': None, 'dominant_emotion': None}
