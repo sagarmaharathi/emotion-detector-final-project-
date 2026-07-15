@@ -1,8 +1,7 @@
-# emotion-detector-final-project-
 
 
-# AI-Based Web Application: Emotion Detector
 
+oaqjp-final-project-emb-ai
 ## Project Description
 This application analyzes user-provided text snippets to evaluate and extract emotional sentiments using an integrated Watson NLP library connection. It ranks primary indicators across multiple emotion keys and returns a designated dominant emotion. The backend logic is packaged as an independent module and served to clients via a responsive web portal deployed through the Flask framework.
 
